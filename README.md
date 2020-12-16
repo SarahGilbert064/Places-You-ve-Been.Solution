@@ -1,10 +1,10 @@
 
 
-# TODO
+# Places You've Been
 
   
 
-### Created by Sarah Gilbert
+### Created by Sarah Gilbert and Eric Endsley
 
   
 
@@ -12,7 +12,7 @@
 
   
 
-#####  TO DO
+#####  This is a project that was created to better understand how to set up and run a web application using RESTful routing.
 
   
   

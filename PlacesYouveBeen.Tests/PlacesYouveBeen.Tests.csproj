@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ToDo\ToDo.csproj" />  
+    <ProjectReference Include="..\PlacesYouveBeen\PlacesYouveBeen.csproj" />  
   </ItemGroup>
 
 </Project>
